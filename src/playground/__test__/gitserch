@@ -1,0 +1,14 @@
+按照项目名称,仓库名称搜索
+in:name XXX
+按照README搜索
+in:readme XXX
+按照description搜索
+in:description XXX
+stars大于XXX
+stars:>XXX
+forks大于XXX
+forks:>XXX
+编程语言为
+language:XXX
+更新时间晚于YYYY-MM-DD
+pushed:>YYYY-MM-DD
